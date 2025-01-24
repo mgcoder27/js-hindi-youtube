@@ -35,4 +35,15 @@ console.log(Object.entries(instauser));
 
 console.log(instauser.hasOwnProperty('email')); // boolean
 
+const {username : name} = instauser; // isko likhne se har baar pura instauser.username likhne ki jarurat nhi hai
 
+console.log(name);
+
+
+{
+    "name" : "Manu",
+    "age": 18,
+    "email": "manugarg1602@gmail.com"
+}
+
+// This is JSON. JSON is nothing but an object which has no name
