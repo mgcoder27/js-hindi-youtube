@@ -44,6 +44,7 @@ console.log(name);
 //     "name" : "Manu",
 //     "age": 18,
 //     "email": "manugarg1602@gmail.com"
+//      "location": "Bhopal"
 // }
 
 // This is JSON. JSON is nothing but an object which has no name
