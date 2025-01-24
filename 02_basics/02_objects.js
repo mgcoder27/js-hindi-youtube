@@ -40,10 +40,10 @@ const {username : name} = instauser; // isko likhne se har baar pura instauser.u
 console.log(name);
 
 
-{
-    "name" : "Manu",
-    "age": 18,
-    "email": "manugarg1602@gmail.com"
-}
+// {
+//     "name" : "Manu",
+//     "age": 18,
+//     "email": "manugarg1602@gmail.com"
+// }
 
 // This is JSON. JSON is nothing but an object which has no name
