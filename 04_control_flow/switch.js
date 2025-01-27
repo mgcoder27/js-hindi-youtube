@@ -1,4 +1,4 @@
-const month = 5;
+const month = 2;
 
 switch(month){
     case 1:
